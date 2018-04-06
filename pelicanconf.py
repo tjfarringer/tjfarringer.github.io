@@ -36,7 +36,7 @@ DEFAULT_PAGINATION = 10
 
 
 #THEME = "/Users/nidhin.pattaniyil/demo/blog/pelican-themes/mnmlist"
-THEME = "themes/pelican-bootstrap3"
+THEME = "themes/aboutwilson"
 
 #JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 BOOTSTRAP_THEME ="yeti"
@@ -53,3 +53,4 @@ PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
+
