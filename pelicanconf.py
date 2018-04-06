@@ -35,8 +35,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 
-#THEME = "/Users/nidhin.pattaniyil/demo/blog/pelican-themes/mnmlist"
-THEME = "themes/aboutwilson"
+THEME = "themes/hyde"
 
 #JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 BOOTSTRAP_THEME ="yeti"
